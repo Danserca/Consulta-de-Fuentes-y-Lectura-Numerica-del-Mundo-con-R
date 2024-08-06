@@ -1,6 +1,6 @@
-name: "MyLabJournal"
+name: "Fuentes para las ciencias sociales"
 navbar:
-  title: "MyLabJournal"
+  title: "Fuentes para las ciencias sociales"
   left:
     - text: "Home"
       href: index.html
