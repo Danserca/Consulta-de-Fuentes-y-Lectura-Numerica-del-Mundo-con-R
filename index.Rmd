@@ -1,5 +1,5 @@
 ---
-title: "MyLabJournal"
+title: "Fuentes para el estudio e investigación en ciencias sociales"
 output: html_document
 ---
 
