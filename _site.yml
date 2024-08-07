@@ -9,5 +9,5 @@ navbar:
     - text: "Links"
       href: Links.html
     - text: "Primer módulo"
-      href: Journal - copia.html
+      href: Journal2.html
 output_dir: "docs"

@@ -1,5 +1,5 @@
 ---
-title: "Journal - copia"
+title: "Journal2"
 output:
   html_document:
     toc: true
