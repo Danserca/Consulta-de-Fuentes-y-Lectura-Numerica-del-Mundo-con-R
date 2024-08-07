@@ -21,7 +21,7 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ### Información sobre el curso
 
 - **Sección:** BÁSICA 2102
-- **Horario:** 05:00pm - 7:15pm, lunes y jueves
+- **Horario:** 5:00pm - 7:15pm, lunes y jueves
 - **Salón:** Aula de cómputo, edificio "D"
 
 ### Información de los docentes
@@ -69,14 +69,14 @@ Nos reunimos dos veces por semana en el laboratorio de computación. Cada clase 
 
 # Estructura del Curso
 
-El curso tiene una duración de 15 semanas. Es una clase presencial y se espera que los estudiantes participen en todos los aspectos de la clase. Esta clase implica el aprendizaje de habilidades de programación informática para la visualización y análisis de datos. Se asume que los estudiantes pueden no poseer habilidades previas en esta área, por lo que el curso tiene un componente de formación aplicada. El tiempo de clase involucrará una mezcla de actividades, incluyendo conferencias, trabajo en grupo, actividades de codificación aplicadas, presentaciones y discusiones.
+El curso tiene una duración de 15 semanas. Es una clase presencial y se espera que las y los estudiantes participen en todos los aspectos de la clase. Esta clase implica el aprendizaje de habilidades de programación informática para la visualización y análisis de datos. Se asume que las y los estudiantes pueden no poseer habilidades previas en esta área, por lo que el curso tiene un componente de formación aplicada. El tiempo de clase involucrará una mezcla de actividades, incluyendo conferencias, trabajo en grupo, actividades de codificación aplicadas, presentaciones y discusiones.
 
 # Cronograma del Curso
 
 | Semana | Fecha          | Tema                                  | Lecturas                        |
 |--------|----------------|---------------------------------------|---------------------------------|
 | S0 L:  | 5 de agosto    | Presentación                          | Ninguna                         |
-| S0 J:  | 8 de agosto    | Introducción                          | Capítulo 1  [Gerring](https://drive.google.com/file/d/1a7haW3adv-CmJz16wDixVq1hvvuXEo7_/view?usp=drive_link); [Bunge](https://users.dcc.uchile.cl/~cgutierr/cursos/INV/bunge_ciencia.pdf)                   |
+| S0 J:  | 8 de agosto    | Introducción                          | Capítulo 1  [Gerring 2014](https://drive.google.com/file/d/1a7haW3adv-CmJz16wDixVq1hvvuXEo7_/view?usp=sharing); [Bunge 2000, pp.3-41](https://archive.org/details/BungeMarioLaInvestigacionCientificaSuEstrategiaYSuFilosofia/page/n45/mode/2up)                   |
 | S1 L:  | 12 de agosto   | Introducción                          | Capítulo 1                      |
 | S1 J:  | 15 de agosto   | Introducción a R y RStudio            | Capítulo 2                      |
 | S2 L:  | 19 de agosto   | Introducción a R y RStudio            | Capítulo 2                      |
@@ -107,7 +107,7 @@ El curso tiene una duración de 15 semanas. Es una clase presencial y se espera 
 | S14 J: | 14 de noviembre| Examen final (5:00 PM - 7:00 PM)      | Ninguna                         |
 
 ### Asistencia
-Se espera que los estudiantes asistan y participen en cada clase.
+Se espera que las y los estudiantes asistan y participen en cada clase.
 
 ### Políticas del curso
 Fechas de entrega
@@ -120,7 +120,7 @@ El programa de estudios puede actualizarse para mayor claridad o para realizar a
 
 ### Pérdida de un examen
 
-En caso de emergencia, comunícate con el proFesor adjunto lo antes posible.
+En caso de emergencia, comunícate con el profesor adjunto lo antes posible.
 
 # Normativa universitaria sobre el principio de ética e integridad académica
 
@@ -158,6 +158,10 @@ De acuerdo con dicho Código, los principios éticos que rigen a la UNAM son:
 
 - Privacidad y protección de la información personal.
  
+# Fuentes de información
+
+Gerring, J. (2014). Metodología de las ciencias sociales. Madrid: Alianza.
+Bunge, M. (2014). La ciencia, su método y su filosofía. 
 
 
 
