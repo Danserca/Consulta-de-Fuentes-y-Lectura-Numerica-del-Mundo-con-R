@@ -160,10 +160,10 @@ De acuerdo con dicho Código, los principios éticos que rigen a la UNAM son:
  
 # Fuentes de información
 
-Bunge, M. (2000). La Investigación científica su estrategia y su filosofía. Barcelona: S.XXI
-[Martínez Valdes, Gustavo AND Huerta Silva, José Luis AND Lara Escalante, Mónica (2024). Gestión de la información para el análisis político. México: UNAM-FCPyS.](http://ciid.politicas.unam.mx/www/libros/9786073089791.pdf)
-Gerring, J. (2014). Metodología de las ciencias sociales. Madrid: Alianza.
-Guía definitiva para todo lo relacionado con R Markdown (la encontrarás muy útil a medida que mejores en esta habilidad):[links page](https://bookdown.org/yihui/rmarkdown/) for lots of helpful links on learning R.
+- Bunge, M. (2000). La Investigación científica su estrategia y su filosofía. Barcelona: S.XXI.  
+- [Martínez Valdes, Gustavo AND Huerta Silva, José Luis AND Lara Escalante, Mónica (2024). Gestión de la información para el análisis político. México: UNAM-FCPyS.](http://ciid.politicas.unam.mx/www/libros/9786073089791.pdf)  
+- Gerring, J. (2014). Metodología de las ciencias sociales. Madrid: Alianza.  
+- Guía definitiva para todo lo relacionado con R Markdown (la encontrarás muy útil a medida que mejores en esta habilidad):[links page](https://bookdown.org/yihui/rmarkdown/).    
 
 
 
