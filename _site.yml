@@ -6,8 +6,8 @@ navbar:
       href: index.html
     - text: "Programa de CFLNM"
       href: Programa_de_CFLNM.html
-    - text: "Links"
-      href: Links.html
-    - text: "Primera unidad"
-      href: Journal2.html
+    # - text: "Links"
+    #   href: Links.html
+    # - text: "Primera unidad"
+    #   href: Journal2.html
 output_dir: "docs"

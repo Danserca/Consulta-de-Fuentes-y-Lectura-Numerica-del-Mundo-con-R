@@ -41,7 +41,7 @@ Introducción práctica y centrada en las habilidades para utilizar software de 
 
 Requisitos especiales: NINGUNO
 
-## Objetivos
+# Objetivos
 
 - Programación básica en R: uso de variables, paquetes, espacios de trabajo...  
 - Transformación de datos: procesamiento de archivos de datos para un análisis deseado.  
@@ -49,29 +49,117 @@ Requisitos especiales: NINGUNO
 - Comunicación de la investigación: cómo utilizar los scripts de R Markdown para crear manuscritos correctamente referenciados para comunicar la investigación.  
 - Investigación reproducible: principios de la ciencia abierta, incluidas herramientas para compartir datos, compartir manuscritos, prerregistro de diseños de investigación, compartir métodos.
 
-## Estructura del curso
+# Estructura del curso
 
-Nos reunimos una vez por semana en un laboratorio de computación. Cada clase implicará una pequeña cantidad de conferencias sobre conceptos de R y una gran cantidad de tiempo para que los estudiantes completen problemas de codificación y análisis asignados semanalmente. Al completar las tareas, los estudiantes crearán un portafolio de codificación que demuestre una variedad de habilidades de comunicación y análisis de datos. El proceso de aprender a codificar requiere paciencia, tiempo y práctica. Se espera que los estudiantes practiquen la codificación fuera del horario de clase cada semana.
+Nos reunimos dos veces por semana en el laboratorio de computación. Cada clase implicará una exposición sobre conceptos de la lógica y metodología de la investigación y casos prácticos tipo taller. Al completar las tareas, las y los estudiantes crearán un portafolio de scripts de codificación de R que demuestre una variedad de habilidades de comunicación y análisis de fuentes y datos. El proceso de aprender a codificar requiere paciencia, tiempo y práctica. Se espera que las y los estudiantes practiquen la codificación fuera del horario de clase cada semana.
 
-## Calendario de lecturas
+<!-- ## Calendario de lecturas -->
 
 
-## Evaluación
+# Evaluación
 
  La rúbrica de calificación se encuentra a continuación:
 
-3 exámenes
-diversas tareas
 
-
-
-| Assignment           | Points | Total |
+| Tarea                | Puntos | Total |
 |----------------------|--------|-------|
-| Weekly assignments   | 7      | 56    |
-| Midterm project      | 17     | 17    |
-| Final Presentation   | 7      | 7     |
-| Final Paper          | 20     | 20    |
+| 3  exámenes parciales| 25     | 75    |
+| N  tareas            | 25     | 25    |
 | **Total**            |        | 100   |
+
+# Estructura del Curso
+
+El curso tiene una duración de 15 semanas. Es una clase presencial y se espera que los estudiantes participen en todos los aspectos de la clase. Esta clase implica el aprendizaje de habilidades de programación informática para la visualización y análisis de datos. Se asume que los estudiantes pueden no poseer habilidades previas en esta área, por lo que el curso tiene un componente de formación aplicada. El tiempo de clase involucrará una mezcla de actividades, incluyendo conferencias, trabajo en grupo, actividades de codificación aplicadas, presentaciones y discusiones.
+
+# Cronograma del Curso
+
+| Semana | Fecha          | Tema                                  | Lecturas                        |
+|--------|----------------|---------------------------------------|---------------------------------|
+| S0 L:  | 5 de agosto    | Presentación                          | Ninguna                         |
+| S0 J:  | 8 de agosto    | Introducción                          | Capítulo 1  [Gerring](https://drive.google.com/file/d/1a7haW3adv-CmJz16wDixVq1hvvuXEo7_/view?usp=drive_link); [Bunge](https://users.dcc.uchile.cl/~cgutierr/cursos/INV/bunge_ciencia.pdf)                   |
+| S1 L:  | 12 de agosto   | Introducción                          | Capítulo 1                      |
+| S1 J:  | 15 de agosto   | Introducción a R y RStudio            | Capítulo 2                      |
+| S2 L:  | 19 de agosto   | Introducción a R y RStudio            | Capítulo 2                      |
+| S2 J:  | 22 de agosto   | Fuentes e informes con R Markdown     | Capítulo 3                      |
+| S3 L:  | 26 de agosto   | Fuentes e informes con R Markdown     | Capítulo 3                      |
+| S3 J:  | 29 de agosto   | Tipos de datos y variables            | Capítulo 4                      |
+| S4 L:  | 2 de septiembre| Tipos de datos y variables            | Capítulo 4                      |
+| S4 J:  | 5 de septiembre| Importación de datos                  | Capítulo 5                      |
+| S5 L:  | 9 de septiembre| Importación de datos                  | Capítulo 5                      |
+| S5 J:  | 12 de septiembre| Resúmenes de datos                   | Capítulo 6                      |
+| S6 L:  | 16 de septiembre| Feriado                              | Ninguna                         |
+| S6 J:  | 19 de septiembre| ggplot2                              | Capítulo 7                      |
+| S7 L:  | 23 de septiembre| Más ggplot2                          | Capítulo 8                      |
+| S7 J:  | 26 de septiembre| Relaciones de datos                  | Capítulo 9                      |
+| S8 L:  | 30 de septiembre| Relaciones de datos                  | Capítulo 9                      |
+| S8 J:  | 3 de octubre   | Informe de práctica                   | Capítulo 10                     |
+| S9 L:  | 7 de octubre   | Informe de práctica                   | Capítulo 10                     |
+| S9 J:  | 10 de octubre  | Informe de práctica                   | Capítulo 10                     |
+| S10 L: | 14 de octubre  | Limpieza de datos                     | Capítulo 11                     |
+| S10 J: | 17 de octubre  | Limpieza de datos                     | Capítulo 11                     |
+| S11 L: | 21 de octubre  | Manipulación de datos                 | Capítulo 12                     |
+| S11 J: | 24 de octubre  | Manipulación de datos                 | Capítulo 12                     |
+| S12 L: | 28 de octubre  | Personalización de informes           | Capítulo 13                     |
+| S12 J: | 31 de octubre  | Personalización de informes           | Capítulo 13                     |
+| S13 L: | 4 de noviembre | Tidy                                  | Capítulo 14                     |
+| S13 J: | 7 de noviembre | Tidy                                  | Capítulo 14                     |
+| S14 L: | 11 de noviembre| Conclusión                            | Ninguna                         |
+| S14 J: | 14 de noviembre| Examen final (5:00 PM - 7:00 PM)      | Ninguna                         |
+
+### Asistencia
+Se espera que los estudiantes asistan y participen en cada clase.
+
+### Políticas del curso
+Fechas de entrega
+Es muy importante entregar en tiempo y forma. No se aceptan trabajos atrasados, salvo justificación por enfermedad o problemas personales comunicados a tiempo. Es posible que puedas trabajar con anticipación, pero no se recomienda que te quedes atrás.
+
+Debes enviar al profesor adjunto un correo electrónico si tienes una circunstancia excepcional que te impida realizar algún trabajo, tarea o examen.
+
+### Cambios en el programa de estudios
+El programa de estudios puede actualizarse para mayor claridad o para realizar ajustes con fines pedagógicos. La versión más actualizada del programa de estudios siempre está disponible en el sitio web del curso.
+
+### Pérdida de un examen
+
+En caso de emergencia, comunícate con el proFesor adjunto lo antes posible.
+
+# Normativa universitaria sobre el principio de ética e integridad académica
+
+De acuerdo con el sitio de la [UNAM](https://liec.dgb.unam.mx/index.php/integridad-academica/normativa-universitaria-sobre-el-principio-de-etica-e-integridad-academica):
+
+
+En la Legislación Universitaria no aparece expresamente el tema del plagio académico, sin embargo, en el Estatuto General de la UNAM y en el Reglamento del Tribunal Universitario y de la Comisión de Honor, así como en otros Reglamentos, se incluyen artículos que hacen referencia a un comportamiento ético, profesional y honorable, que garantice la integridad y honestidad académica, y prevenir o proceder, con medidas preventivas y mecanismos sancionatorios, en contra de faltas a este principio universitario.
+
+# El Código de ética de la UNAM
+El [Código de Ética de la Universidad Nacional Autónoma de México](http://www.abogadogeneral.unam.mx:6060/legislacion/view/84) establece principios y valores que pretender ser una guía de las acciones y conductas de los universitarios, entiéndase por éstos a los alumnos, académicos, investigadores y trabajadores, así como de todos aquellos que realizan alguna actividad, al interior y exterior, relacionada con la Universidad, dentro de los ámbitos académicos, científicos, culturales, artísticos, sociales, administrativos, políticos, económicos, deportivos, entre otros.
+
+De acuerdo con dicho Código, los principios éticos que rigen a la UNAM son:
+
+- Convivencia pacífica y respeto a la diversidad cultural, étnica y personal.
+
+- Igualdad
+
+- Libertad de pensamiento y de expresión.
+
+- Respeto y tolerancia.
+
+- Laicidad en las actividades universitarias.
+
+- **Integridad y honestidad académica.**
+
+- **Reconocimiento y protección de la autoría intelectual.**
+
+- Responsabilidad social y ambiental en el quehacer universitario.
+
+- Objetividad, honestidad e imparcialidad en las evaluaciones académicas.
+
+- Cuidado, uso honesto y responsable del patrimonio universitario.
+
+- Transparencia en el uso de la información y de los recursos públicos de la Universidad.
+
+- Privacidad y protección de la información personal.
+ 
+
+
 
 
 <!-- ### third level header -->
@@ -84,7 +172,7 @@ diversas tareas
 
 <!-- I'm writing this tutorial going from the top down. And, this is how it will be printed. So, notice the second post is second in the list. If you want your most recent post to be at the top, then make a new post starting at the top. If you want the oldest first, do, then keep adding to the bottom -->
 
-# Agregar material de R
+# Iremos agregando material de R, como el que se muestra:
 
 Tal vez quieras tomar una muestra de 100 números de una distribución normal con media = 0 y desviación estándar = 1, y luego quieres trazar un histograma. Puedes hacer esto aquí mismo usando un bloque de código r, como este:
 
