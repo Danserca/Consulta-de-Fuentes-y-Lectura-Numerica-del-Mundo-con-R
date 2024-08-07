@@ -47,7 +47,7 @@ Requisitos especiales: NINGUNO
 - Transformación de datos: procesamiento de archivos de datos para un análisis deseado.  
 - Visualización de datos: representación gráfica.  
 - Comunicación de la investigación: cómo utilizar los scripts de R Markdown para crear manuscritos correctamente referenciados para comunicar la investigación.  
-- Investigación reproducible: principios de la ciencia abierta, incluidas herramientas para compartir datos, compartir manuscritos, prerregistro de diseños de investigación, compartir métodos.
+- Investigación reproducible: principios de la ciencia abierta, incluidas herramientas para compartir datos, compartir manuscritos, diseños de investigación, compartir métodos.
 
 # Estructura del curso
 
@@ -76,7 +76,7 @@ El curso tiene una duración de 15 semanas. Es una clase presencial y se espera 
 | Semana | Fecha          | Tema                                  | Lecturas                        |
 |--------|----------------|---------------------------------------|---------------------------------|
 | S0 L:  | 5 de agosto    | Presentación                          | Ninguna                         |
-| S0 J:  | 8 de agosto    | Introducción                          | Capítulo 1  [Gerring 2014](https://drive.google.com/file/d/1a7haW3adv-CmJz16wDixVq1hvvuXEo7_/view?usp=sharing); [Bunge 2000, pp.3-41](https://archive.org/details/BungeMarioLaInvestigacionCientificaSuEstrategiaYSuFilosofia/page/n45/mode/2up)                   |
+| S0 J:  | 8 de agosto    | Introducción                          | Capítulo 1  [Gerring 2014](https://drive.google.com/file/d/1a7haW3adv-CmJz16wDixVq1hvvuXEo7_/view?usp=sharing);  [Bunge 2000, pp.3-41](https://archive.org/details/BungeMarioLaInvestigacionCientificaSuEstrategiaYSuFilosofia/page/n45/mode/2up)                   |
 | S1 L:  | 12 de agosto   | Introducción                          | Capítulo 1                      |
 | S1 J:  | 15 de agosto   | Introducción a R y RStudio            | Capítulo 2                      |
 | S2 L:  | 19 de agosto   | Introducción a R y RStudio            | Capítulo 2                      |
@@ -160,9 +160,9 @@ De acuerdo con dicho Código, los principios éticos que rigen a la UNAM son:
  
 # Fuentes de información
 
+Bunge, M. (2000). La Investigación científica su estrategia y su filosofía. Barcelona: S.XXI
+[Martínez Valdes, Gustavo AND Huerta Silva, José Luis AND Lara Escalante, Mónica (2024). Gestión de la información para el análisis político. México: UNAM-FCPyS.](http://ciid.politicas.unam.mx/www/libros/9786073089791.pdf)
 Gerring, J. (2014). Metodología de las ciencias sociales. Madrid: Alianza.
-Bunge, M. (2014). La ciencia, su método y su filosofía. 
-
 
 
 
