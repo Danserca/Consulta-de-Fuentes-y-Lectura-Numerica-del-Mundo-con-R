@@ -8,4 +8,6 @@ navbar:
       href: Journal.html
     - text: "Links"
       href: Links.html
+    - text: "Primer módulo"
+      href: Journal - copia.html
 output_dir: "docs"
