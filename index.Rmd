@@ -28,13 +28,13 @@ La "revolución de los datos" está transformando nuestra comprensión del mundo
 ## Objetivos de aprendizaje/resultados
 Las y los estudiantes:
 
-1. Conocerán los fundamentos de la metodología de la investigación en ciencias sociales.
+1. Conocerán los fundamentos de la metodología de la investigación en ciencias sociales.  
 *Resultado:* Las y los estudiantes crearán un protocolo de un proyecto de investigación. 
 
-2. Se familiarizarán y adquirirán las competencias básicas para consultar, gestionar y citar fuentes.
+2. Se familiarizarán y adquirirán las competencias básicas para consultar, gestionar y citar fuentes.  
 *Resultado:* Crearán un documento de PDF con RMarkdown,
 
-3. Comprenderán y reflexionarán críticamente sobre las prácticas de uso de datos en la sociedad
+3. Comprenderán y reflexionarán críticamente sobre las prácticas de uso de datos en la sociedad.  
 *Resultado:* Lo demostrarán en las discusiones y reflexiones sobre las lecturas en el salón de clases.
 
 
