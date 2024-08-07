@@ -2,9 +2,9 @@ name: "Fuentes para las ciencias sociales"
 navbar:
   title: "Fuentes para las ciencias sociales"
   left:
-    - text: "Home"
+    - text: "Inicio"
       href: index.html
-    - text: "Journal"
+    - text: "Programa de CFLNM"
       href: Journal.html
     - text: "Links"
       href: Links.html
