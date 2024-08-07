@@ -34,7 +34,7 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 # Descripción general y objetivos del curso
 
-2018 | 7 | 23 Last compiled: `r Sys.Date()`
+2024 | 8 | 07 Última actualización: `r Sys.Date()`
 
 Introducción práctica y centrada en las habilidades para utilizar software de programación de código abierto (R, R-studio y R Markdown) en varios aspectos de la investigación en ciencias sociales. El curso cubre la programación básica en R, la manipulación de datos, la creación de gráficos y el uso de R para crear manuscritos correctamente citados y gestionando las referencias y fuentes utilizadas.
 
@@ -43,11 +43,11 @@ Requisitos especiales: NINGUNO
 
 ## Objetivos
 
-Programación básica en R: uso de variables, paquetes, espacios de trabajo...
-Transformación de datos: procesamiento de archivos de datos para un análisis deseado.
-Visualización de datos: representación gráfica.
-Comunicación de la investigación: cómo utilizar los scripts de R Markdown para crear manuscritos correctamente referenciados para comunicar la investigación.
-Investigación reproducible: principios de la ciencia abierta, incluidas herramientas para compartir datos, compartir manuscritos, prerregistro de diseños de investigación, compartir métodos.
+- Programación básica en R: uso de variables, paquetes, espacios de trabajo...  
+- Transformación de datos: procesamiento de archivos de datos para un análisis deseado.  
+- Visualización de datos: representación gráfica.  
+- Comunicación de la investigación: cómo utilizar los scripts de R Markdown para crear manuscritos correctamente referenciados para comunicar la investigación.  
+- Investigación reproducible: principios de la ciencia abierta, incluidas herramientas para compartir datos, compartir manuscritos, prerregistro de diseños de investigación, compartir métodos.
 
 ## Estructura del curso
 

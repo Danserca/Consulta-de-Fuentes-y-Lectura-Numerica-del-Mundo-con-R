@@ -17,7 +17,7 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# **Consulta de Fuentes y Lectura Numérica del Mundo**
+# **Consulta de fuentes y lectura numérica del mundo**
 
 Este es el sitio web del curso CFLNM 0032, impartido por la Dra. Daniela Serrano Campos, de agosto a diciembre de 2024. *Este sitio web se encuentra actualmente en desarrollo.*
 

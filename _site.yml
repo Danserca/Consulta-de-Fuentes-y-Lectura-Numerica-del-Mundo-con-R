@@ -8,6 +8,6 @@ navbar:
       href: Programa_de_CFLNM.html
     - text: "Links"
       href: Links.html
-    - text: "Primer módulo"
+    - text: "Primera unidad"
       href: Journal2.html
 output_dir: "docs"
