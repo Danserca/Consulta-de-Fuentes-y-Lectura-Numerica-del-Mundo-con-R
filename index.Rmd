@@ -37,7 +37,6 @@ Las y los estudiantes:
 3. Comprenderán y reflexionarán críticamente sobre las prácticas de uso de datos en la sociedad
 *Resultado:* Lo demostrarán en las discusiones y reflexiones sobre las lecturas en el salón de clases.
 
-Guía definitiva para todo lo relacionado con R Markdown (la encontrarás muy útil a medida que mejores en esta habilidad):[links page](https://bookdown.org/yihui/rmarkdown/) for lots of helpful links on learning R.
 
 Disfruta este curso
 
