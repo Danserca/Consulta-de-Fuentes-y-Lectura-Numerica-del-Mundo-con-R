@@ -10,17 +10,11 @@ output:
     collapsed: false
     number_sections: false
     toc_depth: 1
+    theme: spacelab
     #code_folding: hide
 ---
 <style type="text/css">
-/* Cambia el color del título */
-h1.title {
-  color: #8B5F65; /* Azul claro - cambia a cualquier color que desees */
-}
 
-.custom-color {
-  color: #4CAF50; 
-}
 
 .navbar {
   background-color: #CD8C95; /* Cambia este valor para ajustar el color del cintillo */
@@ -28,31 +22,43 @@ h1.title {
 }
 
 .navbar-default .navbar-nav > li > a {
-  color: #5E5E5E; /* Cambia este valor para ajustar el color del texto en las etiquetas de las secciones */
+  color: #8B5F65; /* Cambia este valor para ajustar el color del texto en las etiquetas de las secciones */
 }
 
-/* Cambia el color del cintillo del menú lateral (toc) */
-#toc {
-  background-color: #8B3626; /* Color de fondo del menú lateral */
-  border-color: #8B3626; /* Color del borde */
+#TOC {
+  color: #8B5F65; 
 }
 
-/* Cambia el color del texto en el menú lateral */
-#toc .tocify-header, #toc .tocify-item {
-  color: #8B5F65; /* Color del texto en las secciones del menú */
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+    z-index: 2;
+    color: #8B5F65;
+    background-color: #EEDFCC;
+    border-color: #8B5F65;
 }
 
-/* Cambia el color al pasar el ratón sobre los elementos del menú */
-#toc .tocify-item:hover {
-  color: #8B3626; /* Color del texto al pasar el ratón (dorado en este caso) */
+/* Cambia el color del título */
+h1.title {
+  color: #8B5F65; /* Azul claro - puedes cambiar este color */
 }
 
-/* Opcional: Cambia el color del fondo de las secciones del menú */
-#toc .tocify-item.active {
-  background-color: #4682B4; /* Azul acero para la sección activa */
+/* Cambia el color del subtítulo */
+h4.subtitle {
+  color: #8B5F65; /* Azul acero - puedes cambiar este color */
 }
+
+/* Opcional: Cambia el color del autor */
+h5.author {
+  color: #8B5F65; /* Azul pizarra medio - puedes cambiar este color */
+}
+
+/* Opcional: Cambia el color de la fecha */
+h5.date {
+  color: #8B5F65; /* Verde oscuro - puedes cambiar este color */
+}
+
 </style>
 
+<div style="color:#8B5F65;">
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
