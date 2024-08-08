@@ -67,12 +67,19 @@ Nos reunimos dos veces por semana en el laboratorio de computación. Cada clase 
 | N  tareas            | 25     | 25    |
 | **Total**            |        | 100   |
 
+
+
+
 # Tareas y examenes
-Se deberÁn entregar y realizar en tiempo y forma en la plataforma [classroom CFLNM-0032-2025](https://classroom.google.com/c/NzAzMDczNzAyMzg2?cjc=tsoeb5c)(**Solicita ACCESO**)
+Se deberÁn entregar y realizar en tiempo y forma en la plataforma [classroom CFLNM-0032-2025](https://classroom.google.com/c/NzAzMDczNzAyMzg2?cjc=tsoeb5c) (**Solicita ACCESO**)
+
+
+
 
 # Cronograma del Curso
 
 El curso tiene una duración de 15 semanas. Es una clase presencial y se espera que las y los estudiantes participen en todos los aspectos de la clase. Esta clase implica el aprendizaje de habilidades de programación informática para la visualización y análisis de datos. Se asume que las y los estudiantes pueden no poseer habilidades previas en esta área, por lo que el curso tiene un componente de formación aplicada. El tiempo de clase involucrará una mezcla de actividades, incluyendo conferencias, trabajo en grupo, actividades de codificación aplicadas, presentaciones y discusiones.
+
 
 # Lecturas por clase
 
@@ -168,9 +175,7 @@ De acuerdo con dicho Código, los principios éticos que rigen a la UNAM son:
 - Gerring, J. (2014). Metodología de las ciencias sociales. Madrid: Alianza.  
 - Guía definitiva para todo lo relacionado con R Markdown (la encontrarás muy útil a medida que mejores en esta habilidad):[links page](https://bookdown.org/yihui/rmarkdown/).    
 
-## Clase 1
-
-### Ejercicios
+## Clase 1. 8 de agosto
 [Hacer ejercicio de autoevaluación y subir a classroom](https://uapa.cuaieed.unam.mx/sites/default/files/minisite/static/5955012c-005c-4441-b3a3-e9868a0cf8d1/contenido/index.html) 
 
 <!-- ### third level header -->
