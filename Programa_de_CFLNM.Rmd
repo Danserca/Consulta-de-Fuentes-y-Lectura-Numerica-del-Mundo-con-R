@@ -67,11 +67,14 @@ Nos reunimos dos veces por semana en el laboratorio de computación. Cada clase 
 | N  tareas            | 25     | 25    |
 | **Total**            |        | 100   |
 
-# Estructura del Curso
+# Tareas y examenes
+Se deberÁn entregar y realizar en tiempo y forma en la plataforma [classroom CFLNM-0032-2025](https://classroom.google.com/c/NzAzMDczNzAyMzg2?cjc=tsoeb5c)(**Solicita ACCESO**)
+
+# Cronograma del Curso
 
 El curso tiene una duración de 15 semanas. Es una clase presencial y se espera que las y los estudiantes participen en todos los aspectos de la clase. Esta clase implica el aprendizaje de habilidades de programación informática para la visualización y análisis de datos. Se asume que las y los estudiantes pueden no poseer habilidades previas en esta área, por lo que el curso tiene un componente de formación aplicada. El tiempo de clase involucrará una mezcla de actividades, incluyendo conferencias, trabajo en grupo, actividades de codificación aplicadas, presentaciones y discusiones.
 
-# Cronograma del Curso
+# Lecturas por clase
 
 | Semana | Fecha          | Tema                                  | Lecturas                        |
 |--------|----------------|---------------------------------------|---------------------------------|
@@ -80,7 +83,7 @@ El curso tiene una duración de 15 semanas. Es una clase presencial y se espera 
 | S1 L:  | 12 de agosto   | Introducción                          | Capítulo 1                      |
 | S1 J:  | 15 de agosto   | Introducción a R y RStudio            | Capítulo 2                      |
 | S2 L:  | 19 de agosto   | Introducción a R y RStudio            | Capítulo 2                      |
-| S2 J:  | 22 de agosto   | Fuentes e informes con R Markdown     | Capítulo 3                      |
+| S2 J:  | 22 de agosto   | Búsqueda de fuentes e informes con R Markdown     | Capítulo 3  [UNAM](https://docenciadigital.unam.mx/ayuda-busqueda#tip8)  [UNAM 2022](https://liec.dgb.unam.mx/index.php/investiga/la-busqueda-de-informacion)                   |
 | S3 L:  | 26 de agosto   | Fuentes e informes con R Markdown     | Capítulo 3                      |
 | S3 J:  | 29 de agosto   | Tipos de datos y variables            | Capítulo 4                      |
 | S4 L:  | 2 de septiembre| Tipos de datos y variables            | Capítulo 4                      |
@@ -165,7 +168,10 @@ De acuerdo con dicho Código, los principios éticos que rigen a la UNAM son:
 - Gerring, J. (2014). Metodología de las ciencias sociales. Madrid: Alianza.  
 - Guía definitiva para todo lo relacionado con R Markdown (la encontrarás muy útil a medida que mejores en esta habilidad):[links page](https://bookdown.org/yihui/rmarkdown/).    
 
+## Clase 1
 
+### Ejercicios
+[Hacer ejercicio de autoevaluación y subir a classroom](https://uapa.cuaieed.unam.mx/sites/default/files/minisite/static/5955012c-005c-4441-b3a3-e9868a0cf8d1/contenido/index.html) 
 
 <!-- ### third level header -->
 
