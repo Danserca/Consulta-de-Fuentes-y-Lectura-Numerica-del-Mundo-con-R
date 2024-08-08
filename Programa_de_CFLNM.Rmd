@@ -12,6 +12,47 @@ output:
     toc_depth: 1
     #code_folding: hide
 ---
+<style type="text/css">
+/* Cambia el color del título */
+h1.title {
+  color: #8B5F65; /* Azul claro - cambia a cualquier color que desees */
+}
+
+.custom-color {
+  color: #4CAF50; 
+}
+
+.navbar {
+  background-color: #CD8C95; /* Cambia este valor para ajustar el color del cintillo */
+  border-color: #8B5F65; /* Opcional: cambia también el color del borde si es necesario */
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #5E5E5E; /* Cambia este valor para ajustar el color del texto en las etiquetas de las secciones */
+}
+
+/* Cambia el color del cintillo del menú lateral (toc) */
+#toc {
+  background-color: #8B3626; /* Color de fondo del menú lateral */
+  border-color: #8B3626; /* Color del borde */
+}
+
+/* Cambia el color del texto en el menú lateral */
+#toc .tocify-header, #toc .tocify-item {
+  color: #8B5F65; /* Color del texto en las secciones del menú */
+}
+
+/* Cambia el color al pasar el ratón sobre los elementos del menú */
+#toc .tocify-item:hover {
+  color: #8B3626; /* Color del texto al pasar el ratón (dorado en este caso) */
+}
+
+/* Opcional: Cambia el color del fondo de las secciones del menú */
+#toc .tocify-item.active {
+  background-color: #4682B4; /* Azul acero para la sección activa */
+}
+</style>
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)

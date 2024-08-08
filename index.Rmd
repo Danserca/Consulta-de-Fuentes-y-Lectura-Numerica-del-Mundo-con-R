@@ -12,10 +12,23 @@ output: html_document
   margin-right: 10px;
 }
 
+.custom-color {
+  color: #4CAF50; 
+}
+
+.navbar {
+  background-color: #CD8C95; /* Cambia este valor para ajustar el color del cintillo */
+  border-color: #8B5F65; /* Opcional: cambia también el color del borde si es necesario */
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #CD9B9B; /* Cambia este valor para ajustar el color del texto en las etiquetas de las secciones */
+}
+
 </style>
 
 <div class="row" style="padding-top: 30px;">
-<div class="col-sm-6">
+<div class="col-sm-6" style="color:#8B5F65;">
 
 # **Consulta de fuentes y lectura numérica del mundo**
 
@@ -46,7 +59,7 @@ Disfruta este curso
 
 <!-- ### [Crump Lab: Human Cognition and Performance](https://crumplab.github.io) -->
 
-<a href = "https://crumplab.github.io">
+<!-- <a href = "https://crumplab.github.io"> -->
 ![](images/logo.png)
 </a>
 </div>
