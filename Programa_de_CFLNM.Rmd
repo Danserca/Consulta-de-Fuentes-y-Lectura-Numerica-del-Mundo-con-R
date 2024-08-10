@@ -134,7 +134,7 @@ El curso tiene una duración de 15 semanas. Es una clase presencial y se espera 
 |--------|----------------|---------------------------------------|---------------------------------|
 | S0 L:  | 5 de agosto    | Presentación                          | Ninguna                         |
 | S0 J:  | 8 de agosto    | Introducción                          | Capítulo 1  [Gerring 2014](https://drive.google.com/file/d/1a7haW3adv-CmJz16wDixVq1hvvuXEo7_/view?usp=sharing);  [Bunge 2000, pp.3-41](https://archive.org/details/BungeMarioLaInvestigacionCientificaSuEstrategiaYSuFilosofia/page/n45/mode/2up)                   |
-| S1 L:  | 12 de agosto   | Introducción                          | Capítulo 1                      |
+| S1 L:  | 12 de agosto   | Introducción                          | Capítulo 2 Y 3 [Gerring 2014, pp. 49-94](https://drive.google.com/file/d/1uwjmsgK6CHZH7rzZ2OK3-KE5R8YTJ3LC/view?usp=sharing)                     |
 | S1 J:  | 15 de agosto   | Introducción a R y RStudio            | Capítulo 2                      |
 | S2 L:  | 19 de agosto   | Introducción a R y RStudio            | Capítulo 2                      |
 | S2 J:  | 22 de agosto   | Búsqueda de fuentes e informes con R Markdown     | Capítulo 3  [UNAM](https://docenciadigital.unam.mx/ayuda-busqueda#tip8)  [UNAM 2022](https://liec.dgb.unam.mx/index.php/investiga/la-busqueda-de-informacion)                   |
