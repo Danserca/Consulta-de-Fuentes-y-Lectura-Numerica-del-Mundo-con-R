@@ -322,8 +322,8 @@ hist(muestras)
 
 <!-- And keep going. Try to solve the problems with different scripts that provide the same solution. Good luck, Happy coding. -->
 
-# Comentarios y dudas
-Siempre con respeto y constructivos, acá:
+# Comentarios y dudas:
+
 
 <div id="disqus_thread"></div>
 <script>
