@@ -106,6 +106,7 @@ Las investigadoras aspiran a estudiar la **acción humana** de una **forma**:
 * Racional
 * Frecuentemente causal
 * Acumulativa
+* Fundada en la armumentación racional
 
 .footnote[
 ----
@@ -168,9 +169,41 @@ Rasgos más generales y persistentes.
 .pull-center[
 .center[
 Detrás de la diversidad de los métodos hay un **consenso** metodológico.  
-**El objetivo práctico de toda disciplina genuina es el consenso**
+###**El objetivo práctico de toda disciplina genuina es el consenso garantizado por la evidencia**
+
 ]
 ]
+---
+<h2 style="text-align: center;">Propuesta de un marco unificado (Gerring 2014)</h2>
+
+
+| **I. GENERAL**     | **Descripción** | **Tabla** |
+|--------------------|-----------------|-----------|
+| **Genérico**       |                 |        |
+| _Criterios_        | Descubrimiento; apreciación | 2.1       |
+| **Argumentos**     |  |       |
+| _Criterios_        |Verdad; precisión; generalidad; delimitación; parsimonia; cobertura; consensualidad; relevancia | 3.1 |
+| **Análisis**       |                 |        |
+| _Criterios_        | Exactitud (validez, precisión, incertidumbre, validez externa); Instrumento: muestreo (representatividad, tamaño, nivel de análisis); acumulación (estandarización, replicación, transparencia); ajuste teórico (validez de constructo, severidad, predictivo) | 4.1       |
+
+---
+|        **II. DESCRIPCIÓN**            |
+|-------------------- |-----------|
+| **Conceptos**       |           |
+| _Criterios_       | Resonancia; dominio; consistencia; fertilidad; diferenciación; utilidad causal; operacionalización; amplitud definitoria (mínima, máxima, univocidad) |
+| _Estrategias_     | Investigación de conceptos; clasificación de atributos; definición (mínima, máxima, acumulativa) |
+| **Mediciones**      |           |
+| _Criterios_       | Fiabilidad (precisión); validez |
+| _Estrategias_     | Niveles de abstracción (alto, medio, bajo); estructura de teoría (conceptual, operacional); aproximaciones (formal, global, instrumental, crítica, dinámica); conjuntos agregados; índices (información, aglutinación); matriz conceptual; análisis (clasificación, simplificación, construcción, interpretación) |
+
+
+---
+| **III. CAUSACIÓN**  |           |
+|---------------------|-----------|
+| **Argumentos**      |           |
+| _Criterios_       | Claridad, manipulabilidad; agresión; independencia; impacto; mecanismo causal |
+| **Análisis**        |           |
+| _Criterios_       | Traslación (exogenidad, variación, simplicidad, dimensionalidad, discriminación, distribución uniforme, fuerza, proximidad, conexión); mezcla; yuxtaposición; matices (moderatización, operalización) |
 
 ---
 name: adios
