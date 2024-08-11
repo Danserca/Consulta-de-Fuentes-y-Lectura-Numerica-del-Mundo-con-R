@@ -321,3 +321,25 @@ hist(muestras)
 <!-- # Replace this with problem 4 -->
 
 <!-- And keep going. Try to solve the problems with different scripts that provide the same solution. Good luck, Happy coding. -->
+
+# Comentarios y dudas, siempre respetuosas y constructivas, acá:
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = https://danserca.github.io/Consulta-de-Fuentes-y-Lectura-Numerica-del-Mundo-con-R/index.html;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = CFLNM_0032_2025; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://cflnm2024-0032-disqus-com.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
