@@ -227,8 +227,8 @@ De acuerdo con dicho Código, los principios éticos que rigen a la UNAM son:
 <br><br>
 <br><br>
 ## Presentación
+<iframe src="intro_met_ccss.html" style="width: 800px; height: 600px; border: none;"></iframe>
 
-<iframe src="intro_met_ccss.html" width="100%" height="600px"></iframe>
 
 <!-- ### third level header -->
 

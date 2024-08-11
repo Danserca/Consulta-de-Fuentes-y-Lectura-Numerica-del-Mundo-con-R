@@ -73,13 +73,13 @@ class: middle
 .right-column[
 <br><br>
 <br><br>
-Estudio científico de la acción humana centrada en los elementos de **pensamiento y comportamiento** que son sociales (no biológicos).
+* Estudio científico de la acción humana centrada en los elementos de **pensamiento y comportamiento** que son sociales (no biológicos).
 <br><br>
+* Cuando la cultura importa más que la naturaleza.
 <br><br>
-Cuando la cultura importa más que la naturaleza.
+* Cuando se considera un componente significativo de elección.
 <br><br>
-<br><br>
-Cuando se considera un componente significativo de elección.
+* La ciencia social se define por lo que hacen las personas dedicadas a la ciencia.
 .footnote[
 ----
                                    Gerring (2014, p.26).]                                                                        
@@ -121,15 +121,15 @@ Las investigadoras aspiran a estudiar la **acción humana** de una **forma**:
 **Divisiones** en cuanto a:
 
 
-1. Disciplinas <br>
+1. Disciplinas: economía, sociología, antropología, etc. <br>
 
 2. Subcampos <br>
 
-3. Problemas<br>
+3. Problemas: conflicto étnico, comportamiento del mercado, etc. <br>
 
-4. Marcos teóricos<br>
+4. Marcos teóricos: conductismo, teoría del intercambio, interaccionismo simbólico, etc.<br>
 
-5. Métodos<br>
+5. Métodos: experimentos, series de tiempo, etnografía. <br>
 
 .footnote[
 ----
@@ -189,4 +189,4 @@ class: middle, inverse
 
 ???
 ¡Gracias por tu atención! 
->>>>>>> a3b602709635e491a987783da4d97cfe26ad3aa1
+
