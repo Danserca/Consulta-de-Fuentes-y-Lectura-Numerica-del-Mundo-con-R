@@ -1,0 +1,191 @@
+---
+title: "Introducción a la metodología en ciencias sociales"
+subtitle: "¿Qué y cuáles son las ciencias sociales?"
+author: "Daniela Serrano Campos"
+institute: "FCPyS"
+date: "10/08/24"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: 
+      - default
+      - rladies
+      - rladies-fonts
+    seal: false
+    self_contained: true
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "4:3"
+---
+
+```{r setup, include = FALSE}
+remotes::install_github("mitchelloharawild/icons")
+devtools::install_github("hadley/emo")
+library(knitr)                              # paquete que trae funciones utiles para R Markdown
+library(tidyverse)                          # paquete que trae varios paquetes comunes en el tidyverse
+library(datos)                              # paquete que viene con datos populares traducidos al español :)
+library(emo)                                # paquete para emojislibrary(knitr)
+library(tidyverse)
+library(xaringanExtra)
+library(icons) # # install.packages("remotes"); remotes::install_github("mitchelloharawild/icons")
+library(fontawesome)
+
+knitr::opts_chunk$set(echo = FALSE,         # FALSE: los bloques de código NO se muestran
+                      dpi = 300,            # asegura gráficos de alta resolución
+                      warning = FALSE,      # los mensajes de advertencia NO se muestran
+                      error = FALSE)        # los mensajes de error NO se muestran
+```
+
+class: title-slide, middle, center
+background-image: url(figures/Clases_Rladies_Slide1.png) 
+background-position: 90% 75%, 75% 75%, center
+background-size: 1210px,210px, cover
+
+# `r rmarkdown::metadata$title`
+----
+## **`r rmarkdown::metadata$subtitle`**
+### `r rmarkdown::metadata$author`
+### `r rmarkdown::metadata$date`
+
+---
+name: hola
+class: inverse, middle, center
+
+
+# ¿Qué son las ciencias sociales?  
+
+## Gerring (2014), Bunge (2000)
+
+
+???
+Se presenta un resumen de los capítulos 1 de Gerring y Bunge.
+
+---
+class: middle
+
+.left-column[
+<br><br>
+<br><br>
+# Definición
+]
+.right-column[
+<br><br>
+<br><br>
+Estudio científico de la acción humana centrada en los elementos de **pensamiento y comportamiento** que son sociales (no biológicos).
+<br><br>
+<br><br>
+Cuando la cultura importa más que la naturaleza.
+<br><br>
+<br><br>
+Cuando se considera un componente significativo de elección.
+.footnote[
+----
+                                   Gerring (2014, p.26).]                                                                        
+]
+---
+
+.left-column[
+# Definición
+]
+
+.right-column[
+Las investigadoras aspiran a estudiar la **acción humana** de una **forma**:
+
+
+* Sistemática  
+* Rigurosa  
+* Fundamentada en la evidencia  
+* Refutable  
+* Replicable
+* Generalizable
+* No subjetiva
+* Transparente
+* Escéptica
+* Racional
+* Frecuentemente causal
+* Acumulativa
+
+.footnote[
+----
+                                   Gerring (2014, p.26).]                                                                        
+]
+---
+
+.left-column[
+# Problema del pluralismo
+]
+
+.right-column[
+**Divisiones** en cuanto a:
+
+
+1. Disciplinas <br>
+
+2. Subcampos <br>
+
+3. Problemas<br>
+
+4. Marcos teóricos<br>
+
+5. Métodos<br>
+
+.footnote[
+----
+                                   Gerring (2014, p.27).]                                                                        
+]
+---
+class: inverse, middle
+
+# Métodos y metodología
+----
+
+.pull-left[
+
+## Método
+
+Procedimientos para recoger y analizar datos.
+<br><br>
+Elecciones particulares o estrategia empírica en un estudio dado.
+
+]<!--end of left-column-->
+
+.pull-right[
+.left[
+## Metodología
+
+Tareas, estrategias y criterios que **gobiernan** la investigación científica.
+<br><br>
+Rasgos más generales y persistentes.
+
+]
+
+] 
+
+<br><br>
+
+.pull-center[
+.center[
+Detrás de la diversidad de los métodos hay un **consenso** metodológico.  
+**El objetivo práctico de toda disciplina genuina es el consenso**
+]
+]
+
+---
+name: adios
+class: middle, inverse
+
+.pull-left[
+# **¡Gracias!**
+<br/>
+## Gracias a R-Ladies Xalapa  
+
+### Por promover la diversidad de género en la comunidad de R
+
+]
+
+
+
+???
+¡Gracias por tu atención! 
