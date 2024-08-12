@@ -134,7 +134,7 @@ El curso tiene una duración de 15 semanas. Es una clase presencial y se espera 
 |--------|----------------|---------------------------------------|---------------------------------|
 | S0 L:  | 5 de agosto    | Presentación                          | Ninguna                         |
 | S0 J:  | 8 de agosto    | Introducción                          | Capítulo 1  [Gerring 2014](https://drive.google.com/file/d/1a7haW3adv-CmJz16wDixVq1hvvuXEo7_/view?usp=sharing);  [Bunge 2000, pp.3-41](https://archive.org/details/BungeMarioLaInvestigacionCientificaSuEstrategiaYSuFilosofia/page/n45/mode/2up)                   |
-| S1 L:  | 12 de agosto   | Introducción                          | Capítulo 2 Y 3 [Gerring 2014, pp. 49-94](https://drive.google.com/file/d/1uwjmsgK6CHZH7rzZ2OK3-KE5R8YTJ3LC/view?usp=sharing)                     |
+| S1 L:  | 12 de agosto   | Introducción                          | Capítulo 2 Y 3 [Gerring 2014, pp. 49-94](https://drive.google.com/file/d/1aUmK4HqTD43-4TtpYcxLaQVdkULHtZeB/view?usp=sharing)                     |
 | S1 J:  | 15 de agosto   | Introducción a R y RStudio            | Capítulo 2                      |
 | S2 L:  | 19 de agosto   | Introducción a R y RStudio            | Capítulo 2                      |
 | S2 J:  | 22 de agosto   | Búsqueda de fuentes e informes con R Markdown     | Capítulo 3  [UNAM](https://docenciadigital.unam.mx/ayuda-busqueda#tip8)  [UNAM 2022](https://liec.dgb.unam.mx/index.php/investiga/la-busqueda-de-informacion)                   |
@@ -219,7 +219,7 @@ De acuerdo con dicho Código, los principios éticos que rigen a la UNAM son:
 
 - Bunge, M. (2000). La Investigación científica su estrategia y su filosofía. Barcelona: S.XXI.  
 - [Martínez Valdes, Gustavo AND Huerta Silva, José Luis AND Lara Escalante, Mónica (2024). Gestión de la información para el análisis político. México: UNAM-FCPyS.](http://ciid.politicas.unam.mx/www/libros/9786073089791.pdf)  
-- Gerring, J. (2014). Metodología de las ciencias sociales. Madrid: Alianza.  
+- [Gerring, J. (2014). Metodología de las ciencias sociales. Madrid: Alianza](https://drive.google.com/file/d/1aUmK4HqTD43-4TtpYcxLaQVdkULHtZeB/view?usp=sharing).  
 - Guía definitiva para todo lo relacionado con R Markdown (la encontrarás muy útil a medida que mejores en esta habilidad):[links page](https://bookdown.org/yihui/rmarkdown/).    
 
 # **Clase 1. 8 de agosto**
