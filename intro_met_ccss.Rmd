@@ -177,34 +177,46 @@ Detrás de la diversidad de los métodos hay un **consenso** metodológico.
 <h2 style="text-align: center;">Propuesta de un marco unificado (Gerring 2014)</h2>
 
 
-| **I. GENERAL**     | **Descripción** | **Tabla** |
+| **I.GENERAL**     | **Elemento** | **Tabla** |
 |--------------------|-----------------|-----------|
 | **Genérico**       |                 |        |
 | _Criterios_        | Descubrimiento; apreciación | 2.1       |
 | **Argumentos**     |  |       |
 | _Criterios_        |Verdad; precisión; generalidad; delimitación; parsimonia; cobertura; consensualidad; relevancia | 3.1 |
 | **Análisis**       |                 |        |
-| _Criterios_        | Exactitud (validez, precisión, incertidumbre, validez externa); Instrumento: muestreo (representatividad, tamaño, nivel de análisis); acumulación (estandarización, replicación, transparencia); ajuste teórico (validez de constructo, severidad, predictivo) | 4.1       |
+| _Criterios_        | Exactitud (validez, precisión, incertidumbre, validez externa, interna); muestreo (representatividad, tamaño, nivel de análisis); acumulación (estandarización, replicación, transparencia); ajuste teórico (validez de constructo, severidad, predictivo) | 4.1       |
 
 ---
-|        **II. DESCRIPCIÓN**            |
-|-------------------- |-----------|
-| **Conceptos**       |           |
-| _Criterios_       | Resonancia; dominio; consistencia; fertilidad; diferenciación; utilidad causal; operacionalización; amplitud definitoria (mínima, máxima, univocidad) |
-| _Estrategias_     | Investigación de conceptos; clasificación de atributos; definición (mínima, máxima, acumulativa) |
-| **Mediciones**      |           |
-| _Criterios_       | Fiabilidad (precisión); validez |
-| _Estrategias_     | Niveles de abstracción (alto, medio, bajo); estructura de teoría (conceptual, operacional); aproximaciones (formal, global, instrumental, crítica, dinámica); conjuntos agregados; índices (información, aglutinación); matriz conceptual; análisis (clasificación, simplificación, construcción, interpretación) |
+<h2 style="text-align: center;">Propuesta de un marco unificado (Gerring 2014)</h2>
+
+| **II.DESCRIPCIÓN**    |          |          |
+|------------------------|-----------|----------| 
+| **Conceptos**          |           |          |
+| _Criterios_            | Resonancia; dominio; consistencia; fertilidad; diferenciación; utilidad causal; operacionalización; amplitud definitoria (mínima, máxima, univocidad) |   5.1 |
+| _Estrategias_          | Investigación de conceptos; clasificación de atributos; definición (mínima, máxima, acumulativa) |   5.2|
+| **Argumentos**         |           |          |
+| _Estrategias_          | Indicadores; síntesis; tipologías (simple, temporal, matriz, taxonómica, configuracional, secuencial); asociaciones (tendencia, red, correlación)| 6.1 |
+| **Mediciones**         |           |          |
+| _Criterios_            | Fiabilidad (precisión); validez ||
+| _Estrategias_          | **Niveles de abstracción (alto, medio, bajo); estructura (de teoría de conjuntos, aditiva, conjuntos difusos); agregación (lógica boleana, ponderaciones); escalas (nominales, ordinales, de intervalos, de razón); objetivos (discriminación, agrupamiento); enfoque (deductivo, inductivo); etnografía; encuestas/experimentos; referencias cruzadas; relaciones causales** |  7.1 |
 
 
 ---
-| **III. CAUSACIÓN**  |           |
-|---------------------|-----------|
-| **Argumentos**      |           |
-| _Criterios_       | Claridad, manipulabilidad; agresión; independencia; impacto; mecanismo causal |
-| **Análisis**        |           |
-| _Criterios_       | Traslación (exogenidad, variación, simplicidad, dimensionalidad, discriminación, distribución uniforme, fuerza, proximidad, conexión); mezcla; yuxtaposición; matices (moderatización, operalización) |
+<h2 style="text-align: center;">Propuesta de un marco unificado (Gerring 2014)</h2>
 
+| **III.CAUSACIÓN**  |           |          |
+|---------------------|-----------|----------|
+| **Argumentos**      |           |          |
+| _Criterios_       | Claridad, manipulabilidad; separación; independencia; impacto; mecanismo causal |8.1 |
+| **Análisis**        |           |          |
+| _Criterios_       | Tratamiento (exogenidad, variación, simplicidad, discreción, uniformidad, distribución uniforme, fuerza, proximidad, escalabilidad); resultado (variación); muestra (independencia, comparabilidad) |  9.3|
+
+.pull-center[
+.center[
+###**El conocimiento recogido con diversas herramientas se podrá acumular si somos capaces de poner diversas evidencias juntas en un marco común (p. 39).**
+
+]
+]
 ---
 name: adios
 class: middle, inverse
