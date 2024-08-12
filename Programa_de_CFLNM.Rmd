@@ -222,14 +222,6 @@ De acuerdo con dicho Código, los principios éticos que rigen a la UNAM son:
 - [Gerring, J. (2014). Metodología de las ciencias sociales. Madrid: Alianza](https://drive.google.com/file/d/1aUmK4HqTD43-4TtpYcxLaQVdkULHtZeB/view?usp=sharing).  
 - Guía definitiva para todo lo relacionado con R Markdown (la encontrarás muy útil a medida que mejores en esta habilidad):[links page](https://bookdown.org/yihui/rmarkdown/).    
 
-# **Clase 1. 8 de agosto**
-[Hacer ejercicio de autoevaluación y subir a classroom](https://uapa.cuaieed.unam.mx/sites/default/files/minisite/static/5955012c-005c-4441-b3a3-e9868a0cf8d1/contenido/index.html) 
-<br><br>
-<br><br>
-## Presentación
-<iframe src="intro_met_ccss.html" style="width: 800px; height: 600px; border: none;"></iframe>
-
-
 <!-- ### third level header -->
 
 <!-- Here's an even lower level header -->
