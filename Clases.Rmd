@@ -78,6 +78,7 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 [Hacer ejercicio de autoevaluación y subir a classroom](https://uapa.cuaieed.unam.mx/sites/default/files/minisite/static/5955012c-005c-4441-b3a3-e9868a0cf8d1/contenido/index.html) 
 <br><br>
 <br><br>
+
 ## Presentación 1
 <iframe src="Gerring_2014_cap2.html" style="width: 800px; height: 600px; border: none;"></iframe>
 
