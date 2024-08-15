@@ -84,3 +84,10 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 ## Presentación 2
 <iframe src="Gerring_2014_cap3.html" style="width: 800px; height: 600px; border: none;"></iframe>
+
+
+# 3. Clase 3. 15 de agosto. Fuentes, operadores booleanos y búsqueda 
+
+[Hacer ejercicio y subir a classroom](https://ri.uaemex.mx/bitstream/handle/20.500.11799/33878/secme-21200.pdf?sequence=1&isAllowed=yhttps://ri.uaemex.mx/bitstream/handle/20.500.11799/33878/secme-21200.pdf?sequence=1&isAllowed=y)
+
+[Ver tutorial](https://ceib.dgb.unam.mx/index.php/operadores-booleanos)
