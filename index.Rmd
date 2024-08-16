@@ -3,7 +3,6 @@ title: "Fuentes para el estudio e investigación en ciencias sociales"
 output: html_document
 ---
 
-<style type="text/css">
 
 <style type="text/css">
 
@@ -71,6 +70,25 @@ h5.author {
 
 h5.date {
   color: #8B5F65; /* Color for date */
+}
+
+/* Hyperlink Styles */
+a {
+  color: #582C35; /* Text color for hyperlinks */
+  text-decoration: none; /* Removes underline from hyperlinks */
+}
+
+a:hover {
+  color: #005a9c; /* Color when hovering over hyperlinks */
+  text-decoration: underline; /* Underlines text when hovering over hyperlinks */
+}
+
+a:visited {
+  color: #6C4F56; /* Color for visited hyperlinks */
+}
+
+a:active {
+  color: #4A2C31; /* Color for active hyperlinks (while clicking) */
 }
 
 </style>
