@@ -270,30 +270,72 @@ ciencias sociales</h1>
 
 
 <style type="text/css">
+<style type="text/css">
 
-h1.title {
-  color: #8B7765; /* Azul claro - cambia a cualquier color que desees */
-}
-
-.title {
-  display: none;
-}
-
-#getting-started img {
-  margin-right: 10px;
-}
-
-.custom-color {
-  color: #4CAF50; 
-}
-
+/* Navbar Styles */
 .navbar {
-  background-color: #CD8C95; /* Cambia este valor para ajustar el color del cintillo */
-  border-color: #8B5F65; /* Opcional: cambia también el color del borde si es necesario */
+  background-color: #CD8C95 !important; /* Background color of the navbar */
+  border-color: #8B5F65 !important; /* Border color of the navbar */
+  background-image: none !important; /* Removes any background image */
+  height: 65px; /* Sets navbar height */
 }
 
+/* Navbar Link Styles */
 .navbar-default .navbar-nav > li > a {
-  color: #333333; /* Cambia este valor para ajustar el color del texto en las etiquetas de las secciones */
+  color: #FFFFFF !important;  /* Text color for links */
+  font-weight: bold !important; /* Bold text */
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #8B5F65 !important; /* Hover and focus text color */
+  font-weight: bold; /* Keeps text bold on hover/focus */
+}
+
+/* Navbar Collapse Menu Styles */
+.navbar-collapse {
+  background-color: #CD8C95 !important; /* Background color for the collapsed navbar */
+}
+
+/* Dropdown Menu Link Styles */
+.navbar-nav > li > a {
+  color: #FFFFFF; /* Text color for dropdown links */
+  font-weight: bold;
+  padding: 10px 15px; /* Padding for dropdown links */
+}
+
+.navbar-nav > li > a:hover,
+.navbar-nav > li > a:focus,
+.navbar-nav > .active > a {
+  background-color: #005a9c; /* Background color on hover/active */
+  color: #FFFFFF; /* Text color on hover/active */
+}
+
+/* Active List Group Item Styles */
+.list-group-item.active,
+.list-group-item.active:focus,
+.list-group-item.active:hover {
+  z-index: 2;
+  color: #8B5F65; /* Text color for active list item */
+  background-color: #EEDFCC; /* Background color for active list item */
+  border-color: #8B5F65; /* Border color for active list item */
+}
+
+/* Title, Subtitle, Author, and Date Styles */
+h1.title {
+  color: #8B5F65; /* Color for title */
+}
+
+h4.subtitle {
+  color: #8B5F65; /* Color for subtitle */
+}
+
+h5.author {
+  color: #8B5F65; /* Color for author */
+}
+
+h5.date {
+  color: #8B5F65; /* Color for date */
 }
 
 </style>

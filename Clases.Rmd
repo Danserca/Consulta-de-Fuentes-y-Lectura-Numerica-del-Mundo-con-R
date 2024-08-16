@@ -13,50 +13,77 @@ output:
     theme: spacelab
     #code_folding: hide
 ---
+
 <style type="text/css">
 
-
+/* Navbar Styles */
 .navbar {
-  background-color: #CD8C95; /* Cambia este valor para ajustar el color del cintillo */
-  border-color: #8B5F65; /* Opcional: cambia también el color del borde si es necesario */
+  background-color: #CD8C95 !important; /* Background color of the navbar */
+  border-color: #8B5F65 !important; /* Border color of the navbar */
+  background-image: none !important; /* Removes any background image */
+  height: 65px; /* Sets navbar height */
 }
 
+/* Navbar Link Styles */
 .navbar-default .navbar-nav > li > a {
-  color: #8B5F65; /* Cambia este valor para ajustar el color del texto en las etiquetas de las secciones */
+  color: #FFFFFF !important;  /* Text color for links */
+  font-weight: bold !important; /* Bold text */
 }
 
-#TOC {
-  color: #8B5F65; 
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #8B5F65 !important; /* Hover and focus text color */
+  font-weight: bold; /* Keeps text bold on hover/focus */
 }
 
-.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
-    z-index: 2;
-    color: #8B5F65;
-    background-color: #EEDFCC;
-    border-color: #8B5F65;
+/* Navbar Collapse Menu Styles */
+.navbar-collapse {
+  background-color: #CD8C95 !important; /* Background color for the collapsed navbar */
 }
 
-/* Cambia el color del título */
+/* Dropdown Menu Link Styles */
+.navbar-nav > li > a {
+  color: #FFFFFF; /* Text color for dropdown links */
+  font-weight: bold;
+  padding: 10px 15px; /* Padding for dropdown links */
+}
+
+.navbar-nav > li > a:hover,
+.navbar-nav > li > a:focus,
+.navbar-nav > .active > a {
+  background-color: #005a9c; /* Background color on hover/active */
+  color: #FFFFFF; /* Text color on hover/active */
+}
+
+/* Active List Group Item Styles */
+.list-group-item.active,
+.list-group-item.active:focus,
+.list-group-item.active:hover {
+  z-index: 2;
+  color: #8B5F65; /* Text color for active list item */
+  background-color: #EEDFCC; /* Background color for active list item */
+  border-color: #8B5F65; /* Border color for active list item */
+}
+
+/* Title, Subtitle, Author, and Date Styles */
 h1.title {
-  color: #8B5F65; /* Azul claro - puedes cambiar este color */
+  color: #8B5F65; /* Color for title */
 }
 
-/* Cambia el color del subtítulo */
 h4.subtitle {
-  color: #8B5F65; /* Azul acero - puedes cambiar este color */
+  color: #8B5F65; /* Color for subtitle */
 }
 
-/* Opcional: Cambia el color del autor */
 h5.author {
-  color: #8B5F65; /* Azul pizarra medio - puedes cambiar este color */
+  color: #8B5F65; /* Color for author */
 }
 
-/* Opcional: Cambia el color de la fecha */
 h5.date {
-  color: #8B5F65; /* Verde oscuro - puedes cambiar este color */
+  color: #8B5F65; /* Color for date */
 }
 
 </style>
+
 
 <div style="color:#8B5F65;">
 
@@ -88,6 +115,7 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 # 3. Clase 3. 15 de agosto. Fuentes, operadores booleanos y búsqueda 
 
-[Hacer ejercicio y subir a classroom](https://ri.uaemex.mx/bitstream/handle/20.500.11799/33878/secme-21200.pdf?sequence=1&isAllowed=yhttps://ri.uaemex.mx/bitstream/handle/20.500.11799/33878/secme-21200.pdf?sequence=1&isAllowed=y)
+[Hacer ejercicios de las páginas 1 a la 8 y subir a classroom](https://ri.uaemex.mx/bitstream/handle/20.500.11799/33878/secme-21200.pdf?sequence=1&isAllowed=yhttps://ri.uaemex.mx/bitstream/handle/20.500.11799/33878/secme-21200.pdf?sequence=1&isAllowed=y)
 
-[Ver tutorial](https://ceib.dgb.unam.mx/index.php/operadores-booleanos)
+[Ver tutoriales de operadores booleanos, de proximidad, de truncamiento, paréntesis](https://ceib.dgb.unam.mx/index.php/operadores-booleanos)
+[Ver tutorial de búsquedas eficientes](https://ceib.dgb.unam.mx/index.php/busquedas-eficientes-de-informacion)
