@@ -137,3 +137,7 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 [Ver tutoriales de operadores booleanos, de proximidad, de truncamiento, paréntesis](https://ceib.dgb.unam.mx/index.php/operadores-booleanos)
 [Ver tutorial de búsquedas eficientes](https://ceib.dgb.unam.mx/index.php/busquedas-eficientes-de-informacion)
+
+
+# 3. Clase 4. 19 de agosto. Búsqueda, bitácora y recuperación de información y recursos
+[Hacer ejercicio](https://drive.google.com/file/d/1B6-a7QMhrE9L0YQ7MImhAzF81MC7Nue8/view?usp=sharing)
