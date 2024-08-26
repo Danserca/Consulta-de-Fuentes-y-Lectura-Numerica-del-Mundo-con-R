@@ -141,3 +141,9 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 # 3. Clase 4. 19 de agosto. Búsqueda, bitácora y recuperación de información y recursos
 [Hacer ejercicio](https://drive.google.com/file/d/1B6-a7QMhrE9L0YQ7MImhAzF81MC7Nue8/view?usp=sharing)
+
+
+
+# 3. Clase 6. 26 de agosto. RMarkdown, mendeley, citas
+
+[Hacer práctica](https://365inegi-my.sharepoint.com/:f:/g/personal/daniela_serrano_inegi_org_mx/EmnA2xp3FL5CjOyIYtPD1REB2RTvTj4wSwhPB8M_wnD4XA?e=1RQaqZ)
