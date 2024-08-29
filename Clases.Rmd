@@ -151,3 +151,6 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ### Introducción a R. Introducción a R y Rstudio. Escritura de comandos en la consola. Cálculos simples. Uso de funciones. Introducción a las variables. Datos numéricos, de caracteres y lógicos. Almacenamiento de múltiples valores como un vector.
 
 [Hacer práctica](https://365inegi-my.sharepoint.com/:f:/g/personal/daniela_serrano_inegi_org_mx/EmnA2xp3FL5CjOyIYtPD1REB2RTvTj4wSwhPB8M_wnD4XA?e=1RQaqZ)
+
+# 7. Clase 6. 29 de agosto. Intro a R
+[Hacer práctica](https://365inegi-my.sharepoint.com/:f:/g/personal/daniela_serrano_inegi_org_mx/EpGFWZG3kalGoFjYd7YFhbIBp9ycr4xF_cFBGVEAFaX_LA?e=JALbYc)
