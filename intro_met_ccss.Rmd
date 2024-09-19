@@ -31,6 +31,7 @@ library(tidyverse)
 library(xaringanExtra)
 library(icons) # # install.packages("remotes"); remotes::install_github("mitchelloharawild/icons")
 library(fontawesome)
+library(pagedown) # Este paquete permite renderizar documentos HTML como PDFs con facilidad.
 
 knitr::opts_chunk$set(echo = FALSE,         # FALSE: los bloques de código NO se muestran
                       dpi = 300,            # asegura gráficos de alta resolución

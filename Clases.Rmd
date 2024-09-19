@@ -192,7 +192,5 @@ de cita están haciendo
 
 
 # 10. Clase 10. Citando en RMarkdown
+<iframe src="images/portada_rm.pdf" width="100%" height="800px"></iframe>
 
-<object data="https://rstudio-pubs-static.s3.amazonaws.com/844849_e83808b06df24eb3b2a36394bf128859.html#11" type="text/html" width="60%" height="600px">
-  Si no puedes ver el contenido, visita este [enlace directo](https://rstudio-pubs-static.s3.amazonaws.com/844849_e83808b06df24eb3b2a36394bf128859.html#11).
-</object>
