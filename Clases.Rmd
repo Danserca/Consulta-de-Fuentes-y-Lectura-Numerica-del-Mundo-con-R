@@ -152,5 +152,47 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 [Hacer práctica](https://365inegi-my.sharepoint.com/:f:/g/personal/daniela_serrano_inegi_org_mx/EmnA2xp3FL5CjOyIYtPD1REB2RTvTj4wSwhPB8M_wnD4XA?e=1RQaqZ)
 
-# 7. Clase 6. 29 de agosto. Intro a R
+# 7. Clase 7. 29 de agosto. Intro a R
 [Hacer práctica](https://365inegi-my.sharepoint.com/:f:/g/personal/daniela_serrano_inegi_org_mx/EpGFWZG3kalGoFjYd7YFhbIBp9ycr4xF_cFBGVEAFaX_LA?e=JALbYc)
+
+
+# 8. Clase 8. 2 de septiembre 
+<iframe src="https://www.bioetica.unam.mx/cursos-autogestivos/multimedia/extra/manuales/cpcfta_manual.pdf" width="100%" height="800px"></iframe>
+
+
+*Práctica*
+
+1- Tema, pregunta, problema de
+investigación
+
+
+•2.- Algoritmo o ecuación de búsqueda
+
+
+•3.- Bitácora de búsqueda
+
+
+•4.- 1 articulo
+
+
+•5.- Leer resumen e introducción
+
+
+•6.- Identificar y clasificar las citas
+del texto
+
+
+•7.- Van a hacer 2 citas anotando qué tipo
+de cita están haciendo
+
+
+•8.- Bibliografía
+
+
+
+
+# 10. Clase 10. Citando en RMarkdown
+
+<object data="https://rstudio-pubs-static.s3.amazonaws.com/844849_e83808b06df24eb3b2a36394bf128859.html#11" type="text/html" width="60%" height="600px">
+  Si no puedes ver el contenido, visita este [enlace directo](https://rstudio-pubs-static.s3.amazonaws.com/844849_e83808b06df24eb3b2a36394bf128859.html#11).
+</object>
