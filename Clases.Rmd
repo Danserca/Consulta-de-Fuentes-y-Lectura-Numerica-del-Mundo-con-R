@@ -203,3 +203,16 @@ de cita están haciendo
 # 12. *GUÍA PARA CREAR PDF CON RM Y CITAR CON MENDELEY*
 <iframe src="images/guia_cita_rm_mendeley.pdf" width="100%" height="800px"></iframe>
 
+
+# 13. Clase. 23 de agosto. Descripción y Medición
+
+Tipos de datos en R [Mendoza s/a](https://bookdown.org/jboscomendoza/r-principiantes4/tipos-de-datos.html)
+<br><br>
+
+## Presentación 1
+<iframe src="Gerring_2014_cap6.html" style="width: 800px; height: 600px; border: none;"></iframe>
+
+## Presentación 2
+<iframe src="Gerring_2014_cap7.html" style="width: 800px; height: 600px; border: none;"></iframe>
+
+
