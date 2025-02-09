@@ -1,5 +1,5 @@
 ---
-title: "Hub para el Fortalecimiento en Comunicación y Visualización de Datos"
+title: "Hub para el Fortalecimiento en Comunicación y Visualización de Datos de Gobierno"
 output: html_document
 ---
 
@@ -97,8 +97,6 @@ a:active {
 
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6" style="color:#8B5F65;">
-
-# **Portal de Fortalecimiento y actualización de habilidades de comunicación y visualización de datos**
 
 Este sitio web nace como una **herramienta interna colaborativa**, diseñada para fortalecer las capacidades del equipo en la **comunicación, visualización y ciudadanización de las estadísticas oficiales de gobierno**.  
 

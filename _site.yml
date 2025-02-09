@@ -1,6 +1,6 @@
-name: "Hub para el Fortalecimiento en Comunicación y Visualización de Datos"
+name: "Hub para el Fortalecimiento"
 navbar:
-  title: "Hub para el Fortalecimiento en Comunicación y Visualización de Datos"
+  title: "Hub para el Fortalecimiento en Comunicación y Visualización de Datos de Gobierno"
   left:
     - text: "Inicio"
       href: index.html
