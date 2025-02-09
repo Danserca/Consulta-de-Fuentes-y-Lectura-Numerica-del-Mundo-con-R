@@ -1,6 +1,6 @@
-name: "Fuentes para las ciencias sociales"
+name: "Hub para el Fortalecimiento en Comunicación y Visualización de Datos"
 navbar:
-  title: "Fuentes para las ciencias sociales"
+  title: "Hub para el Fortalecimiento en Comunicación y Visualización de Datos"
   left:
     - text: "Inicio"
       href: index.html

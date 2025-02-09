@@ -1,5 +1,5 @@
 ---
-title: "Fuentes para la investigación en ciencias sociales"
+title: "Hub para el Fortalecimiento en Comunicación y Visualización de Datos"
 output: html_document
 ---
 
@@ -98,28 +98,58 @@ a:active {
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6" style="color:#8B5F65;">
 
-# **Visualización y ciudadanización de datos**
+# **Portal de Fortalecimiento y actualización de habilidades de comunicación y visualización de datos**
 
-Este es el sitio web pone a tu disposión herramientas, referencias, ligas a páginas para fortalecer la producción y difusión de estadísticas de gobierno. *Este sitio web se encuentra actualmente en desarrollo.*
+Este sitio web nace como una **herramienta interna colaborativa**, diseñada para fortalecer las capacidades del equipo en la **comunicación, visualización y ciudadanización de las estadísticas oficiales de gobierno**.  
 
-## Descripción del curso
+Inspirado en diversas iniciativas, este espacio busca crear una **comunidad activa y comprometida** con el aprendizaje, la actualización constante y la mejora de la difusión de datos hacia la sociedad.  . *Este sitio web se encuentra actualmente en desarrollo.*
 
-La "revolución de los datos" 
+## 📌 **Nuestra Visión**  
 
-## Objetivos de aprendizaje/resultados
+El **Portal de Fortalecimiento Estadístico** está construido sobre los valores fundamentales de:  
 
+- **Accesibilidad**  
+- **Soporte mutuo**  
+- **Estructura organizada**  
+- **Colaboración continua**  
 
-1. Conocerán los fundamentos de la metodología de la investigación en ciencias sociales.  
-*Resultado:* Las y los estudiantes crearán un protocolo de un proyecto de investigación. 
-
-2. Se familiarizarán y adquirirán las competencias básicas para consultar, gestionar y citar fuentes.  
-*Resultado:* Crearán un documento de PDF con RMarkdown,
-
-3. Comprenderán y reflexionarán críticamente sobre las prácticas de uso de datos en la sociedad.  
-*Resultado:* Lo demostrarán en las discusiones y reflexiones sobre las lecturas en el salón de clases.
+Aspiramos a fomentar un entorno donde el conocimiento **fluya libremente**, y donde cada integrante del equipo pueda crecer y contribuir al desarrollo de **estadísticas más claras, accesibles y útiles** para la ciudadanía.  
 
 
-Disfruta este curso
+## 🚀 **Qué Ofrecemos**  
+
+Este espacio incluye **recursos, cursos, guías y herramientas clave** para mejorar en:  
+
+✔ **Redacción académica y comunicación estadística efectiva**  
+✔ **Visualización de datos comprensible y accesible**  
+✔ **Ciudadanización de las estadísticas**, promoviendo un lenguaje claro y cercano  
+✔ **Aprovechamiento del código abierto**, fomentando la transparencia y el intercambio de buenas prácticas  
+
+
+## 🌎 **Comunidad y Colaboración**  
+
+En línea con el espíritu de *Escuela de Datos*, este portal es más que una plataforma de aprendizaje: es un **espacio de socialización e inspiración**.  
+
+Aquí, el compromiso con el equipo y con la sociedad se traduce en la **creación de contenidos estadísticos más relevantes y accesibles**, para contribuir al cambio social a través del conocimiento.  
+
+
+
+## 🎯 **Ventajas de Participar**  
+
+Al unirte a esta plataforma, accedes a:  
+
+📚 **Recursos y soporte continuo** para tus proyectos y publicaciones  
+📊 **Capacitación en herramientas de comunicación y visualización de datos**  
+🤝 **Acceso a una comunidad de aprendizaje**, donde podrás compartir experiencias, resolver dudas y fortalecer tus habilidades  
+💡 **Inspiración y nuevas ideas** para mejorar la difusión de los resultados estadísticos  
+
+
+
+Este portal representa nuestro compromiso con el **fortalecimiento de las estadísticas oficiales**, con el propósito de hacerlas más cercanas, útiles y significativas para la ciudadanía.  
+
+> **Juntos, construiremos un puente entre el conocimiento técnico y el bienestar social.**  
+
+Disfruta y envía recomendaciones a este espacio
 
 
 </div>
