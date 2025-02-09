@@ -1,5 +1,5 @@
 ---
-title: "Fuentes para el estudio e investigación en ciencias sociales"
+title: "Fuentes para la investigación en ciencias sociales"
 output: html_document
 ---
 
