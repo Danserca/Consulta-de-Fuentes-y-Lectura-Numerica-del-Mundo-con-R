@@ -83,7 +83,7 @@ a:active {
 </style>
 
 
-# 📖 Glosario
+# 📖 Glosario de términos
 
 <!-- Barra de búsqueda -->
 <input type="text" id="glosario-busqueda" onkeyup="filtrarGlosario()" placeholder="🔍 Buscar un término..." class="form-control mb-3">
