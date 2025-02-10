@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
+title: "CFLNM"
+=======
 title: "Hub para el Fortalecimiento en Comunicación y Visualización de Datos de Gobierno"
+>>>>>>> 4b3a9680520159080961fde9c09ce81e91e0c71e
 output: html_document
 ---
 
