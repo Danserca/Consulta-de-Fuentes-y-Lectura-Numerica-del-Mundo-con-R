@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: "CFLNM"
+=======
+title: "Hub para el Fortalecimiento en Comunicación y Visualización de Datos de Gobierno"
+>>>>>>> 4b3a9680520159080961fde9c09ce81e91e0c71e
 output: html_document
 ---
 
@@ -8,8 +12,8 @@ output: html_document
 
 /* Navbar Styles */
 .navbar {
-  background-color: #CD8C95 !important; /* Background color of the navbar */
-  border-color: #8B5F65 !important; /* Border color of the navbar */
+  background-color:  #00BFB3 !important; /* Background color of the navbar */
+  border-color:   #00BFB3 !important; /* Border color of the navbar */
   background-image: none !important; /* Removes any background image */
   height: 65px; /* Sets navbar height */
 }
@@ -22,18 +26,18 @@ output: html_document
 
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #8B5F65 !important; /* Hover and focus text color */
+  color: #D8CEFF !important; /* Hover and focus text color */
   font-weight: bold; /* Keeps text bold on hover/focus */
 }
 
 /* Navbar Collapse Menu Styles */
 .navbar-collapse {
-  background-color: #CD8C95 !important; /* Background color for the collapsed navbar */
+  background-color: #00BFB3 !important; /* Background color for the collapsed navbar */
 }
 
 /* Dropdown Menu Link Styles */
 .navbar-nav > li > a {
-  color: #FFFFFF; /* Text color for dropdown links */
+  color: #D8CEFF; /* Text color for dropdown links */
   font-weight: bold;
   padding: 10px 15px; /* Padding for dropdown links */
 }
@@ -41,8 +45,8 @@ output: html_document
 .navbar-nav > li > a:hover,
 .navbar-nav > li > a:focus,
 .navbar-nav > .active > a {
-  background-color: #005a9c; /* Background color on hover/active */
-  color: #FFFFFF; /* Text color on hover/active */
+  background-color:  #00BFB3; /* Background color on hover/active */
+  color:  #00BFB3; /* Text color on hover/active */
 }
 
 /* Active List Group Item Styles */
@@ -50,27 +54,28 @@ output: html_document
 .list-group-item.active:focus,
 .list-group-item.active:hover {
   z-index: 2;
-  color: #8B5F65; /* Text color for active list item */
-  background-color: #EEDFCC; /* Background color for active list item */
-  border-color: #8B5F65; /* Border color for active list item */
+  color: #00BFB3; /* Text color for active list item */
+  background-color:  #E4D0EF; /* Background color for active list item */
+  border-color: #E4D0EF; /* Border color for active list item */
 }
 
 /* Title, Subtitle, Author, and Date Styles */
 h1.title {
-  color: #8B5F65; /* Color for title */
+  color:  #003057; /* Color for title */
 }
 
 h4.subtitle {
-  color: #8B5F65; /* Color for subtitle */
+  color:  #003057; /* Color for subtitle */
 }
 
 h5.author {
-  color: #8B5F65; /* Color for author */
+  color:  #003057; /* Color for author */
 }
 
 h5.date {
-  color: #8B5F65; /* Color for date */
+  color: #00BFB3; /* Color for date */
 }
+
 
 /* Hyperlink Styles */
 a {
@@ -91,35 +96,81 @@ a:active {
   color: #4A2C31; /* Color for active hyperlinks (while clicking) */
 }
 
+
+/* Cambia el color del cuerpo del texto */
+body {
+  color: #2E3A46 !important; /* Un gris oscuro para mejorar la lectura */
+}
+
+/* Cambia el color de los párrafos */
+p {
+  color: #354A5F !important; /* Azul-grisáceo más claro */
+}
+
+/* Cambia el color del texto en listas */
+ul li {
+  color: #005a9c !important; /* Azul más fuerte */
+}
+
 </style>
 
 
-
 <div class="row" style="padding-top: 30px;">
-<div class="col-sm-6" style="color:#8B5F65;">
+<div class="col-sm-6" style="color:#00BFB3;">
 
-# **Visualización y ciudadanización de datos**
+Este sitio web es una **herramienta interna colaborativa**, diseñada para fortalecer las capacidades del equipo en la **comunicación, visualización y ciudadanización de las estadísticas de gobierno**.  
 
-Este es el sitio web pone a tu disposión herramientas, referencias, ligas a páginas para fortalecer la producción y difusión de estadísticas de gobierno. *Este sitio web se encuentra actualmente en desarrollo.*
+No sustituye, contradice ni desafía los [**manuales de identidad**](https://sc.inegi.org.mx/repositorioNormateca/MII_2024.pdf) o el [**sistema visual institucional**](https://intranet.inegi.org.mx/docs/Imagen_Institucional/sistema_visual.pdf), cuyo uso es obligatorio. Su propósito es complementar estos lineamientos, proporcionando orientación para mejorar la efectividad en la **comunicación visual y escrita**.  
+   
 
-## Descripción del curso
+Inspirado en diversas iniciativas, este espacio busca crear una **comunidad activa y comprometida** con el aprendizaje, la actualización constante y la mejora de la difusión de datos hacia la sociedad.
 
-La "revolución de los datos" 
+## 📌 **Nuestra Visión**  
 
-## Objetivos de aprendizaje/resultados
+El **Portal de Fortalecimiento Estadístico** está construido sobre los valores fundamentales de:  
 
+- **Accesibilidad**  
+- **Soporte mutuo**  
+- **Estructura organizada**  
+- **Colaboración continua**  
 
-1. Conocerán los fundamentos de la metodología de la investigación en ciencias sociales.  
-*Resultado:* Las y los estudiantes crearán un protocolo de un proyecto de investigación. 
-
-2. Se familiarizarán y adquirirán las competencias básicas para consultar, gestionar y citar fuentes.  
-*Resultado:* Crearán un documento de PDF con RMarkdown,
-
-3. Comprenderán y reflexionarán críticamente sobre las prácticas de uso de datos en la sociedad.  
-*Resultado:* Lo demostrarán en las discusiones y reflexiones sobre las lecturas en el salón de clases.
+Aspiramos a fomentar un entorno donde el conocimiento **fluya libremente**, y donde cada integrante del equipo pueda crecer y contribuir al desarrollo de **estadísticas más claras, accesibles y útiles** para la ciudadanía.  
 
 
-Disfruta este curso
+## 🚀 **Qué Ofrecemos**  
+
+Este espacio incluye **recursos, cursos, guías y herramientas clave** para mejorar en:  
+
+✔ **Redacción y comunicación estadística efectiva**  
+✔ **Visualización de datos comprensible y accesible**  
+✔ **Ciudadanización de las estadísticas**, promoviendo un lenguaje claro y cercano  
+✔ **Aprovechamiento del código abierto**, fomentando la transparencia y el intercambio de buenas prácticas  
+
+
+## 🌎 **Comunidad y Colaboración**  
+
+Este portal es más que una plataforma de aprendizaje: es un **espacio de socialización e inspiración**.  
+
+Aquí, el compromiso con el equipo y con la sociedad se traduce en la **creación de contenidos estadísticos más relevantes y accesibles**, para contribuir a la toma de decisión informada.
+
+
+
+## 🎯 **Ventajas de Participar**  
+
+Al unirte a esta plataforma, accedes a:  
+
+📚 **Recursos y soporte continuo** para tus proyectos y publicaciones  
+📊 **Capacitación en herramientas de comunicación y visualización de datos**  
+🤝 **Acceso a una comunidad de aprendizaje**, donde podrás compartir experiencias, resolver dudas y fortalecer tus habilidades  
+💡 **Inspiración y nuevas ideas** para mejorar la difusión de los resultados estadísticos  
+
+
+
+Este portal representa nuestro compromiso con el **fortalecimiento de las estadísticas de gobierno**, con el propósito de hacerlas más cercanas, útiles y significativas para la ciudadanía.  
+
+> **Juntas y juntos, construimos un puente claro, efectivo y eficiente entre la información y acción.**  
+
+Disfruta y envía recomendaciones a este espacio
 
 
 </div>

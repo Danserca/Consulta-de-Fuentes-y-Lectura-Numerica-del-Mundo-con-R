@@ -1,13 +1,17 @@
-name: "Fuentes para las ciencias sociales"
+name: "HFCVDG"
 navbar:
-  title: "Fuentes para las ciencias sociales"
+  title: "HFCVDG"
   left:
     - text: "Inicio"
       href: index.html
-    - text: "Programa de CFLNM"
+    - text: "Data vis"
       href: Programa_de_CFLNM.html
-    - text: "Clases"
+    - text: "Comunicación efectiva"
       href: Clases.html
+    - text: "Glosario"
+      href: Glosario.html
+    - text: "Aviso de responsabilidad"
+      href: Disclamer.html
     # - text: "Links"
     #   href: Links.html
     # - text: "Primera unidad"
