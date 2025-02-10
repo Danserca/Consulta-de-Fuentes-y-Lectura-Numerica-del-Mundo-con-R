@@ -9,7 +9,7 @@ output: html_document
 /* Navbar Styles */
 .navbar {
   background-color:  #00BFB3 !important; /* Background color of the navbar */
-  border-color:  #0077C8 !important; /* Border color of the navbar */
+  border-color:   #00BFB3 !important; /* Border color of the navbar */
   background-image: none !important; /* Removes any background image */
   height: 65px; /* Sets navbar height */
 }
@@ -22,7 +22,7 @@ output: html_document
 
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #0077C8 !important; /* Hover and focus text color */
+  color: #D8CEFF !important; /* Hover and focus text color */
   font-weight: bold; /* Keeps text bold on hover/focus */
 }
 
@@ -33,7 +33,7 @@ output: html_document
 
 /* Dropdown Menu Link Styles */
 .navbar-nav > li > a {
-  color: #FFFFFF; /* Text color for dropdown links */
+  color: #D8CEFF; /* Text color for dropdown links */
   font-weight: bold;
   padding: 10px 15px; /* Padding for dropdown links */
 }
@@ -41,8 +41,8 @@ output: html_document
 .navbar-nav > li > a:hover,
 .navbar-nav > li > a:focus,
 .navbar-nav > .active > a {
-  background-color: #005a9c; /* Background color on hover/active */
-  color: #FFFFFF; /* Text color on hover/active */
+  background-color:  #00BFB3; /* Background color on hover/active */
+  color:  #00BFB3; /* Text color on hover/active */
 }
 
 /* Active List Group Item Styles */
@@ -51,8 +51,8 @@ output: html_document
 .list-group-item.active:hover {
   z-index: 2;
   color: #00BFB3; /* Text color for active list item */
-  background-color: #EEDFCC; /* Background color for active list item */
-  border-color: #00BFB3; /* Border color for active list item */
+  background-color:  #E4D0EF; /* Background color for active list item */
+  border-color: #E4D0EF; /* Border color for active list item */
 }
 
 /* Title, Subtitle, Author, and Date Styles */
@@ -115,7 +115,10 @@ ul li {
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-5" style="color:#00BFB3;">
 
-Este sitio web nace como una **herramienta interna colaborativa**, diseñada para fortalecer las capacidades del equipo en la **comunicación, visualización y ciudadanización de las estadísticas oficiales de gobierno**.  
+Este sitio web es una **herramienta interna colaborativa**, diseñada para fortalecer las capacidades del equipo en la **comunicación, visualización y ciudadanización de las estadísticas de gobierno**.  
+
+No sustituye, contradice ni desafía los [**manuales de identidad**](https://sc.inegi.org.mx/repositorioNormateca/MII_2024.pdf) o el [**sistema visual institucional**](https://intranet.inegi.org.mx/docs/Imagen_Institucional/sistema_visual.pdf), cuyo uso es obligatorio. Su propósito es complementar estos lineamientos, proporcionando orientación para mejorar la efectividad en la **comunicación visual y escrita**.  
+   
 
 Inspirado en diversas iniciativas, este espacio busca crear una **comunidad activa y comprometida** con el aprendizaje, la actualización constante y la mejora de la difusión de datos hacia la sociedad.  . *Este sitio web se encuentra actualmente en desarrollo.*
 
