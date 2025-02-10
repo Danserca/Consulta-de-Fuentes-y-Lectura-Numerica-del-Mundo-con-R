@@ -1,7 +1,5 @@
 ---
 title: "Recursos"
-subtitle: "HFAVDG"
-author: "Dra. Daniela Serrano Campos"
 date: "`r format(Sys.Date(), '%d de %B de %Y')`"
 output:
   html_document:

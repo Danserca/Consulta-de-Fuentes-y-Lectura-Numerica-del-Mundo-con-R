@@ -1,7 +1,5 @@
 ---
 title: "Comunicación escrita ciudadana efectiva"
-subtitle: "Consulta de fuentes y lectura numérica del mundo"
-author: "Dra. Daniela Serrano Campos"
 date: "`r format(Sys.Date(), '%d de %B de %Y')`"
 output:
   html_document:
@@ -131,15 +129,15 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 # 1. Guía de buenas prácticas en escritura
 
 #### ¿Por qué es importante comunicar datos en lenguaje ciudadano?  
-Los datos se producen con base en métodos científicos y buenas prácticas. La escritura es la forma más común de comunicación científica, pero los científicos tienen fama de ser malos escritores. ¿Por qué? Una posible razón es que nunca se les enseña realmente a escribir. Escribir con claridad tiene beneficios: facilita la colaboración y reduce la brecha entre la academia y la sociedad.  
+Generamos datos con base en métodos científicos y buenas prácticas. La escritura es una de las formas más comunes de comunicación en la ciencia, pero quienes se dedican a la investigación tienen fama de no escribir con claridad. ¿Por qué sucede esto? Una posible razón es que rara vez reciben formación específica en escritura. Comunicar con claridad tiene grandes beneficios: fortalece la colaboración y reduce la brecha entre las oficinas nacionales de estadística y la sociedad.
 
-#### ¿Cómo usar este recurso?  
-El **Scientific Writing Resource** es un curso en línea diseñado para enseñar a escribir de manera efectiva. No se centra en la corrección gramatical o de puntuación, sino en comunicar claramente la intención del autor. Aunque está en inglés y está dirigido a estudiantes de posgrado en ciencias, puede traducirse y utilizarse de manera autodidacta.  
+#### [**Scientific Writing Resource**](https://sites.duke.edu/scientificwriting/)  
+El **Scientific Writing Resource** es un curso en línea diseñado para enseñar a escribir de manera efectiva. No se enfoca en la corrección gramatical o de puntuación, sino en comunicar con claridad la intención de quien escribe. Aunque está en inglés y dirigido a personas que cursan posgrados en ciencias, puede traducirse y utilizarse de manera autodidacta.
 
 Las lecciones pueden completarse en unos 45 minutos. Basta con leer los materiales y ejemplos, y luego practicar con los ejercicios.  
 
 #### Comunicar de manera efectiva  
-El objetivo de la escritura es la comunicación. Estas lecciones no establecen reglas absolutas, sino principios basados en la perspectiva del lector. Se inspiran en las ideas de Joseph Williams y George Gopen, quienes sostienen que, si comprendes lo que los lectores esperan, puedes cumplir con esas expectativas y mejorar tu comunicación escrita.  
+El objetivo de la escritura es la comunicación. Estas lecciones no establecen reglas absolutas, sino principios basados en la perspectiva de la persona que lee. Se inspiran en las ideas de Joseph Williams y George Gopen, quienes sostienen que, si comprendes lo que las lectoras esperan, puedes cumplir con esas expectativas y mejorar tu comunicación escrita.  
 
 La clave del éxito en la escritura está en la **revisión inteligente**. Al principio, considera estos principios como guías para revisar tu trabajo. Con la práctica, se integrarán naturalmente en tu proceso de escritura.  
 

@@ -8,6 +8,10 @@ navbar:
       href: Programa_de_CFLNM.html
     - text: "Comunicación efectiva"
       href: Clases.html
+    - text: "Glosario"
+      href: Glosario.html
+    - text: "Aviso de responsabilidad"
+      href: Disclamer.html
     # - text: "Links"
     #   href: Links.html
     # - text: "Primera unidad"
